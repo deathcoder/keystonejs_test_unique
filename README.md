@@ -3,3 +3,5 @@
 the server can be started with the following command:
 
 node keystone
+
+the admin credentials are: user@keystonejs.com:admin 
